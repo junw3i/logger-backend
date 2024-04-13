@@ -1,0 +1,1 @@
+A mock logging service
